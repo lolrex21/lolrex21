@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hola, soy Jose 👋
 
-<!--
-**lolrex21/lolrex21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy estudiante y estoy aprendiendo sobre tecnología, programación y GitHub.
 
-Here are some ideas to get you started:
+## Sobre mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📚 Me gusta aprender cosas nuevas
+- 💻 Estoy empezando en GitHub
+- ⚖️ También me interesa el Derecho
+- 🚀 Quiero mejorar mis proyectos poco a poco
+
+## Tecnologías que estoy aprendiendo
+
+- Git
+- GitHub
+- Markdown
+- HTML
+- CSS
+
+
+Puedes ver mis proyectos aquí en GitHub.
